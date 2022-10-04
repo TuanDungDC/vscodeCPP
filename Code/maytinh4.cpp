@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a, b ;
+    float a, b ;
     char c;
     cin >> a >> c >> b ;
     if(c == '+'){
